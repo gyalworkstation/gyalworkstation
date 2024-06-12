@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyalworkstation AKA Tenzin
 - 👀 I’m interested in cybersecurity / Digital Painting 
-- 🌱 I’m currently working on algo
+- 🌱 I’m currently working on PiRogue and Algo VPN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
